@@ -1,12 +1,14 @@
-### decisions and selections statements
+## decisions and selections statements
 
 #### code to mimic human thought
 ##### control flow
+
 ##### if statement (true/false concept)
 ##### if-elif-else (multiple conditions to evaluate)
 ##### elif = else if
 ##### conditions evaluated sequentially till encountering a true condition
 ##### and-or-not (logical operators in game)
+
 ##### modularize code into manageable functions
 ##### use dictionaries for more elegant concise solutions
 ##### reduce code complexity and gain clarity
@@ -14,27 +16,30 @@
 ##### libraries like numbpy and pandas for optimized functions, like arrays or dataframes
 ##### its all about improving efficiency while reducing time and effort
 
-### loops and conditional statements
+## loops and conditional statements
 ##### for loop, for i in range(1, 11):
  #####    print(i) #i prints 1,2...10. the range between 1 and 11 is 10.
 ##### while(true condition)/while not(false condition) loop, while condition remains true, execute.(for unknown number of iterations)
 ##### great for a quick game to guess a number, until the number is not guessed correctly, the loop repeats asking for user input
 ##### loops eliminate code repetition, enable efficient iteration, they automate.
-##### world applications
+
+#### world applications
+
 ##### data analysis, web development, game development, machine learning.
 ##### not overuse loops or conditionals, they must be concise. easy to debug, easy to understand.
 ##### lists or lambda functions provide more efficient ways to achieve same results as loops or conditionals.
 ##### A lambda function in Python is just a tiny, one line, throwable function.
-##### == equal
-##### != not equal
-##### > greater than
-##### < smaller than
-##### >= greater than or equal
-##### <= less than or equal
-##### conditionals = logic = binary
-##### for loop = defined range
-##### while loop = undefined until a condition is met
-##### for i in range(start, stop, step) it always stops before stop, the loop stops before stop. nice
+
+#### == equal
+#### != not equal
+#### > greater than
+#### < smaller than
+#### >= greater than or equal
+#### <= less than or equal
+#### conditionals = logic = binary
+#### for loop = defined range
+#####while loop = undefined until a condition is met
+#### for i in range(start, stop, step) it always stops before stop, the loop stops before stop. nice
 
 ##### now we have list and loops. here we are actually learning stuff so we have like, energies = ["subtle", "higher", "lower"]
 ##### and the index starts at 0 so if then i declare
